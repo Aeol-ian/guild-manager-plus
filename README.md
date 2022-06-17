@@ -60,6 +60,7 @@ export const GUILD_NAME_MAX_LENGTH: number = +process.env.GUILD_NAME_MAX_LENGT |
 ## Если указываем эмодзи (смайл), то нужно еще и указать ID
 - Просто перед эмодзи ставим **\\**
 - А если стандартное эмодзи, то просто :pig:
+
 ![s1](https://i.ibb.co/xjtgtyT/unknown2.png)
 
 
